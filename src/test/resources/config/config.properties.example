@@ -1,0 +1,23 @@
+# URL Redmine
+redmine.url=
+
+# Логин редактора
+redmine.editor.login=
+
+# Пароль редактора
+redmine.editor.password=
+
+# API ключ редактора
+redmine.editor.apikey=
+
+# Логин исполнителя
+redmine.executor.login=
+
+# Пароль исполнителя
+redmine.executor.password=
+
+# API ключ исполнителя
+redmine.executor.apikey=
+
+# ID проекта
+redmine.project.id=
